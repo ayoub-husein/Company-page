@@ -21,7 +21,7 @@ body {
 }
 
 nav.navbar {
-    z-index: 9;
+    z-index: 11;
 }
 
 nav.navbar ul.navbar-nav li a.nav-link {
@@ -272,7 +272,7 @@ section.gallery .work-gallery .overlay-gallery {
     top: 0;
     right: 0;
     height: 100vh;
-    z-index: 10;
+    z-index: 12;
     overflow: hidden;
     text-align: right;
     padding: 5% 10%;
@@ -331,7 +331,7 @@ section.gallery .work-gallery .overlay-gallery a.close {
     left: 0%;
     font-size: 30px;
     font-weight: bold;
-    z-index: 9;
+    z-index: 12;
 }
 
 section.statistics {
